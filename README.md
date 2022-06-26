@@ -1,7 +1,7 @@
 # Responsive-Watches-Website
 
 
- Responsive Watches Website Using HTML CSS and JavaScript Responsive Clock Website Using HTML CSS and JavaScript
+ Responsive Watches Website Using HTML CSS and JavaScript 
 
 * Smooth scrolling in each section.
 * Includes a dark and light mode.
