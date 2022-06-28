@@ -13,4 +13,6 @@
 ###### `<link>` : <https://msaul03.github.io/Responsive-Watches-Website/>
 
 ## Screenshot
-![Image](preview.png)
+![Image](Captura.png)
+
+![Image](Captura1.png)
